@@ -1,19 +1,12 @@
 KING Code Highlighter
-<<<<<<< HEAD
-=====================
-=======
 ====================
->>>>>>> 157fc64a6871eec24520fa1bae6a7ef278d37475
 
 KING Code Highlighter to highlight different languages' code in a beautiful and intelligent way.
 
 How To Use:
 
-<<<<<<< HEAD
-1- Just open the html page in your favorite text editor on which you want to use Google Code Prettifier.
-=======
 1- Just open the html page in your favorite text editor on which you want to use KING Code Highlighter.
->>>>>>> 157fc64a6871eec24520fa1bae6a7ef278d37475
+
 In your head tag include following two lines.
 
 `````html
@@ -31,11 +24,8 @@ or
 `````html
 <code class="prettyprint">...</code>
 `````
-<<<<<<< HEAD
-and it will automatically be pretty printed.
-=======
+
 and it will automatically be highlighted.
->>>>>>> 157fc64a6871eec24520fa1bae6a7ef278d37475
 
 EXAMPLE:
 
@@ -51,11 +41,7 @@ This is original without any formatting
 </html>
 `````
 
-<<<<<<< HEAD
-After adding the Google Code Prettifier to your code, your code will look like this.
-=======
 After adding the KING Code Highlighter to your code, your code will look like this.
->>>>>>> 157fc64a6871eec24520fa1bae6a7ef278d37475
 `````html
 <!DOCTYPE html>
 <html>
